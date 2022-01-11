@@ -8,7 +8,7 @@
 <h4 align="center"> By Sofia Acosta</h4>
 
 ## Description
-Building a friendship app to practice Computer Science concepts such as Graph Theory, data structures: Edge list, Adjacency list and Adjacency matrix and the BIG O.
+Building a friendship social network app to practice Computer Science concepts such as Graph Theory, data structures: Edge list, Adjacency list and Adjacency matrix and the BIG O.
 
 ## Setup/Installation Requirements
 - Clone the repo 
