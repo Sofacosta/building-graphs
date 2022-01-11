@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">An application to practice Computer Science concepts. Initiated: 01-11-2021 Modified:01-11-2021</h3>
+<h3 align="center">An application to practice Computer Science concepts. Initiated: 01-11-2022 Modified:01-11-2022</h3>
 <h4 align="center"> By Sofia Acosta</h4>
 
 ## Description
