@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1641939812167" clover="3.2.0">
-  <project timestamp="1641939812167" name="All files">
-    <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6" elements="24" coveredelements="24" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+<coverage generated="1641940312868" clover="3.2.0">
+  <project timestamp="1641940312868" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="5" methods="8" coveredmethods="8" elements="32" coveredelements="31" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
     <file name="graph.js" path="/Users/sofiaacosta/Epicodus/building-graphs/src/graph.js">
-      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
-      <line num="3" count="8" type="stmt"/>
-      <line num="7" count="8" type="stmt"/>
-      <line num="11" count="2" type="cond" truecount="2" falsecount="0"/>
+      <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="5" methods="8" coveredmethods="8"/>
+      <line num="3" count="9" type="stmt"/>
+      <line num="7" count="11" type="stmt"/>
+      <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
       <line num="12" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
-      <line num="18" count="2" type="stmt"/>
-      <line num="19" count="2" type="stmt"/>
-      <line num="20" count="2" type="stmt"/>
-      <line num="21" count="2" type="stmt"/>
-      <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="19" count="4" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="21" count="4" type="stmt"/>
+      <line num="25" count="4" type="cond" truecount="2" falsecount="0"/>
       <line num="26" count="1" type="stmt"/>
-      <line num="28" count="2" type="stmt"/>
+      <line num="28" count="3" type="stmt"/>
       <line num="32" count="1" type="stmt"/>
       <line num="33" count="1" type="stmt"/>
+      <line num="37" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
