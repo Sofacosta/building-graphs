@@ -19,6 +19,7 @@ Building a friendship social network app to practice Computer Science concepts s
 
 - HTML
 - Javascripts
+- Jest
 
 ### License
 

@@ -16,5 +16,9 @@ describe('Graph', () => {
     graph.addNode("Jasmine");
     expect(graph.adjacencyList.get("Jasmine").size).toEqual(0);
   });
-  
+
+  test('should return false if the node does not exist in the adjacency list', () =>
+  {
+    expect(graph.hasNode("Ada")).toEqual(false);
+  });
 });
