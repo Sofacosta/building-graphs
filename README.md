@@ -17,6 +17,7 @@ Building a friendship social network app to practice Computer Science concepts s
 
 ## Technologies Used
 
+- HTML
 - Javascript
 - Jest
 - ES6
