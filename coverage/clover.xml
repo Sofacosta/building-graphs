@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642108867056" clover="3.2.0">
-  <project timestamp="1642108867056" name="All files">
-    <metrics statements="20" coveredstatements="20" conditionals="10" coveredconditionals="8" methods="9" coveredmethods="9" elements="39" coveredelements="37" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+<coverage generated="1642110882834" clover="3.2.0">
+  <project timestamp="1642110882835" name="All files">
+    <metrics statements="46" coveredstatements="46" conditionals="22" coveredconditionals="21" methods="12" coveredmethods="12" elements="80" coveredelements="79" complexity="0" loc="46" ncloc="46" packages="1" files="1" classes="1"/>
     <file name="graph.js" path="/Users/sofiaacosta/Epicodus/building-graphs/src/graph.js">
-      <metrics statements="20" coveredstatements="20" conditionals="10" coveredconditionals="8" methods="9" coveredmethods="9"/>
-      <line num="3" count="10" type="stmt"/>
-      <line num="7" count="19" type="stmt"/>
+      <metrics statements="46" coveredstatements="46" conditionals="22" coveredconditionals="21" methods="12" coveredmethods="12"/>
+      <line num="3" count="11" type="stmt"/>
+      <line num="7" count="27" type="stmt"/>
       <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
       <line num="12" count="1" type="stmt"/>
       <line num="14" count="2" type="stmt"/>
-      <line num="18" count="11" type="stmt"/>
-      <line num="19" count="11" type="stmt"/>
-      <line num="20" count="11" type="stmt"/>
-      <line num="21" count="11" type="stmt"/>
+      <line num="18" count="18" type="stmt"/>
+      <line num="19" count="18" type="stmt"/>
+      <line num="20" count="18" type="stmt"/>
+      <line num="21" count="18" type="stmt"/>
       <line num="25" count="4" type="cond" truecount="2" falsecount="0"/>
       <line num="26" count="1" type="stmt"/>
       <line num="28" count="3" type="stmt"/>
@@ -22,8 +22,34 @@
       <line num="38" count="1" type="stmt"/>
       <line num="39" count="2" type="stmt"/>
       <line num="41" count="1" type="stmt"/>
-      <line num="46" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="46" count="4" type="cond" truecount="4" falsecount="0"/>
       <line num="47" count="2" type="stmt"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="2" type="stmt"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="52" count="13" type="stmt"/>
+      <line num="53" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="56" count="12" type="stmt"/>
+      <line num="57" count="12" type="stmt"/>
+      <line num="58" count="12" type="stmt"/>
+      <line num="59" count="25" type="cond" truecount="2" falsecount="0"/>
+      <line num="60" count="12" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="70" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="71" count="2" type="stmt"/>
+      <line num="73" count="2" type="stmt"/>
+      <line num="74" count="2" type="stmt"/>
+      <line num="75" count="2" type="stmt"/>
+      <line num="76" count="11" type="stmt"/>
+      <line num="77" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="78" count="1" type="stmt"/>
+      <line num="80" count="10" type="stmt"/>
+      <line num="81" count="10" type="stmt"/>
+      <line num="82" count="10" type="stmt"/>
+      <line num="83" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="84" count="11" type="stmt"/>
+      <line num="90" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
